@@ -626,7 +626,6 @@ strong {
   CUSTOM BLOCK              
 -----------------------------------------*/
 .custom-block {
-  background-image: url('../images/1638252865metode-pembelajaran-les-privat.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -667,7 +666,7 @@ strong {
   z-index: 2;
   overflow: hidden;
   margin: auto;
-  padding: 25px 45px;
+  padding: 0px;
 }
 
 .custom-block-info {
